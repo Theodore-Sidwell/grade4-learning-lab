@@ -1,0 +1,62 @@
+JORDAN'S DAILY LEARNING LAB — VERSION 2
+Parent and learner guide | Grade 4
+
+1. START HERE
+Open Jordan_Learning_Lab_v2.html in a recent Chrome or Edge browser. The ZIP includes the same single-file website as index.html. It can be placed on an HTTPS static hosting service to work at an online web address; this package is not published to a public URL by itself.
+
+2. THE DAILY TEST (19 MARKS)
+There are 28 daily passages and ten questions each day:
+  1. Read the instructions correctly — 1 point, exact multiple choice.
+  2. Find a fact — 1 point, exact multiple choice.
+  3. Give two details — 2 points, estimated content match.
+  4. Explain why — 2 points, estimated content match.
+  5. Vocabulary — 1 point, exact multiple choice.
+  6. Explain in your own words — 2 points, estimated content match.
+  7. Correct a sentence — 2 points, estimated tense / sentence form.
+  8. Two-sentence summary — 3 points, estimated ideas / sentence count.
+  9. Read aloud — 3 points, *transcript overlap only*; NOT a validated assessment of reading fluency, pronunciation or expression.
+  10. Oral explanation — 2 points, estimated transcript detail and reason.
+
+Each question has clues. Using clues is recorded separately from the score. The parent may correct any auto-calculated mark in the dashboard. Automatic marks for open responses may overestimate or underestimate correct answers, particularly with unusual wording, negation, creative answers, and speech-to-text errors.
+
+3. DAILY REVIEW WITH JORDAN
+After 'Finish today's test', open Daily review. For each question:
+ - Your answer: what Jordan entered or dictated.
+ - What you noticed: interpretation of his answer and matched concepts.
+ - What the question wanted you to see: expected idea / answer guide.
+ - Try this thinking method: specific strategy to practise.
+ - Today's next steps: two priorities drawn from missed skills (excluding speech-transcript overlap).
+
+Review together without treating mistakes as personal failures. Ask him to explain the difference between his answer and the model answer. A different correct answer deserves full credit even if the software missed it.
+
+4. LONG WRITING / MARKOV-STYLE FLOW
+Optional activity: write a 65–110 word story inspired by the day's passage. It scores up to 5 points SEPARATELY from the original 19-point test:
+ - Adequate length
+ - Several complete sentences
+ - Connection to the prompt
+ - Sentence capitals and punctuation
+ - Sentence-order / flow signal
+
+The flow indicator is a first-order Markov-style model: it assigns broad labels (background, problem, action, outcome, reflection) to consecutive sentences and checks how plausible the transition is under a small hand-designed transition table. This is only a heuristic. It does not understand writing the way an expert teacher does; it does not validate meaning, creativity, grammar or comprehension. Parents should approve or correct the story mark.
+
+5. SPEECH TO TEXT
+Press Start speaking on a question or on the optional story activity; speak clearly, then press Stop. The recognised words appear in the text answer and can be edited. NO audio recordings are saved by the website. Depending on the browser, recognition may send microphone audio to the browser vendor or cloud service. Always check recognition accuracy, particularly sentence punctuation.
+
+Speech-to-text generally works best on a secure HTTPS web address in Chrome/Edge. A downloaded file may have microphone limitations. All questions can also be typed. Giving verbal answers and converting them to text is not equivalent to measuring reading fluency or pronunciation.
+
+6. PARENT DASHBOARD AND MONITORING
+The dashboard includes prior school assessment scores as a baseline, individual mark corrections for all ten questions, parent notes, daily and weekly results, hint counts, a separate optional-writing score and 28-day progress. Previous school scores never enter the daily practice score calculation.
+
+7. SAVING AND RESTORING PREVIOUS WORK
+Progress is stored locally by the browser and web address (not in a central account). If replacing an earlier website at the SAME address, existing progress may remain in that browser because the storage key is kept backward compatible. If using a different file address, device or browser:
+ - In the old application, go to Parent Dashboard > Export all answers JSON.
+ - Open Version 2 on the target browser/device.
+ - In Parent Dashboard, select Restore previous backup and choose the JSON file.
+ - Verify a few past answers and parent-approved scores.
+ - Keep backups safely; deleting browser site data can erase locally stored work.
+
+8. PRACTICAL WEEKLY METHOD
+Have Jordan do 20–30 minutes, ideally four or five days weekly. On each day, read the Daily review together, select just two strategies to practise and compare support needed over time. Review open-ended marks as a parent and involve the teacher if the difficulty persists.
+
+9. INTERPRETATION
+This is a formative practice and parent-support tool, not a clinical diagnosis or standardised school assessment. An adult should verify all open-ended marks and any score based on speech recognition. If reading fluency, language comprehension, hearing, attention or other learning needs are suspected, discuss formal screening and school-based support with his teacher.
